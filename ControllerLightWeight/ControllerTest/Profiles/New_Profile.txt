@@ -1,0 +1,5 @@
+crouch	2	
+jump	0	
+reload	1	
+super	4	5	
+swap	3	

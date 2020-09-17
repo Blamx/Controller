@@ -1,0 +1,3 @@
+﻿  Wrapper.cpp
+     Creating library C:\Users\100586132\source\repos\ControllerTest\Debug\ControllerTest.lib and object C:\Users\100586132\source\repos\ControllerTest\Debug\ControllerTest.exp
+LINK : fatal error LNK1561: entry point must be defined
